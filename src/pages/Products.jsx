@@ -13,7 +13,7 @@ function Products() {
       category: "Electronics",
       price: 1999,
       rating: 4.5,
-      image: "https://via.placeholder.com/300"
+      image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=300&fit=crop"
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ function Products() {
       category: "Electronics",
       price: 2999,
       rating: 4.3,
-      image: "https://via.placeholder.com/300"
+      image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300&h=300&fit=crop"
     },
     {
       id: 3,
@@ -29,7 +29,7 @@ function Products() {
       category: "Shoes",
       price: 2499,
       rating: 4.6,
-      image: "https://via.placeholder.com/300"
+      image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&h=300&fit=crop"
     },
     {
       id: 4,
@@ -37,7 +37,7 @@ function Products() {
       category: "Fashion",
       price: 1499,
       rating: 4.2,
-      image: "https://via.placeholder.com/300"
+      image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300&h=300&fit=crop"
     },
     {
       id: 5,
@@ -45,7 +45,7 @@ function Products() {
       category: "Gym equipments",
       price: 1500,
       rating: 4.5,
-      image: "https://via.placeholder.com/300"
+      image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=300&h=300&fit=crop"
     }
   ];
 
