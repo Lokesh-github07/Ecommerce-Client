@@ -46,6 +46,13 @@ function Products() {
       price: 1500,
       rating: 4.5,
       image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=300&h=300&fit=crop"
+    },
+    {
+      id: 6,
+      name: "C-type Charger",
+      price: 240,
+      rating: 5,
+      image: "https://i.postimg.cc/c4c3Yr9C/andrey-matveev-f0Ep-Yk-Z-cp4-unsplash.jpg"
     }
   ];
 
