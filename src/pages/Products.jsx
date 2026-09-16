@@ -50,9 +50,10 @@ function Products() {
     {
       id: 6,
       name: "C-type Charger",
-      price: 240,
+      category: "Electrical device",
+      price: 1525,
       rating: 5,
-      image: "https://i.postimg.cc/c4c3Yr9C/andrey-matveev-f0Ep-Yk-Z-cp4-unsplash.jpg"
+      image: "https://images.unsplash.com/photo-1727885796960-70a0adfe40ef?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ];
 
