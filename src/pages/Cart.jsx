@@ -197,7 +197,7 @@ const styles = {
   checkoutBtn: {
     width: "100%",
     padding: "0.85rem",
-    backgroundColor: "#4f46e5",
+    backgroundColor: "#00b878",
     color: "#ffffff",
     border: "none",
     borderRadius: "8px",
