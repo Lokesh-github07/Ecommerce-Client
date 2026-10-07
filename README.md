@@ -1,4 +1,7 @@
 # 🛒 ShopEase
+### 📊 Repository Activity
+
+[![Commits](https://img.shields.io/github/commit-activity/t/Lokesh-github07/TestAutomationFramework?style=flat-square)](https://github.com/Lokesh-github07/TestAutomationFramework/commits)
 
 A full-stack e-commerce platform built with **React, Node.js, Express.js, MongoDB, and REST APIs**.
 
@@ -18,23 +21,26 @@ A full-stack e-commerce platform built with **React, Node.js, Express.js, MongoD
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React.js
-- Vite
-- React Router
-- Axios
-- CSS
+### Frontend
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- bcrypt
+[![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white)](https://reactrouter.com/)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)](https://axios-http.com/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-**Database**
-- MongoDB
-- Mongoose
+### Backend
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![REST API](https://img.shields.io/badge/REST-API-02569B)](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+[![JWT](https://img.shields.io/badge/JWT-Authentication-000000?logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![bcrypt](https://img.shields.io/badge/bcrypt-Password%20Hashing-003A70)](https://github.com/kelektiv/node.bcrypt.js)
+
+### Database
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 
 ## 📁 Project Structure
 
