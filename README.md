@@ -1,6 +1,9 @@
 # 🛒 ShopEase
 ### 📊 Repository Activity
 
+[![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-orange?style=for-the-badge)](https://github.com/Lokesh-github07/Ecommerce-Client)
+
+
 [![Commits](https://img.shields.io/github/commit-activity/t/Lokesh-github07/TestAutomationFramework?style=flat-square)](https://github.com/Lokesh-github07/TestAutomationFramework/commits)
 
 A full-stack e-commerce platform built with **React, Node.js, Express.js, MongoDB, and REST APIs**.
